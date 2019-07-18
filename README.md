@@ -19,8 +19,11 @@ Technologies Used
 
 Screenshots
 -------------
-<img src="https://user-images.githubusercontent.com/39919952/61494430-c2748b00-a97b-11e9-9b0c-29f87ab2c051.png" height="400" alt="Screenshot"/> 
+* Actual database design using references:
 <img src="https://user-images.githubusercontent.com/39919952/61494434-c43e4e80-a97b-11e9-9c0c-f8be74a12e8f.png" height="400" alt="Screenshot"/> 
+
+* Example ER Diagrams from previous relational model:
+<img src="https://user-images.githubusercontent.com/39919952/61494430-c2748b00-a97b-11e9-9b0c-29f87ab2c051.png" height="400" alt="Screenshot"/> 
 <img src="https://user-images.githubusercontent.com/39919952/61494448-cf917a00-a97b-11e9-8ce2-09b95c813bab.png" height="400" alt="Screenshot"/> 
 
 Pre-requisites
