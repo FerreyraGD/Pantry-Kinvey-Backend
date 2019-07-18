@@ -1,2 +1,34 @@
 # Pantry-Kinvey-Backend
 My Contribution/Source code for a project undertaken with 5 other developers where we created an Android app called Pantry
+
+Introduction
+------------
+Pantry was an Android application developed by a team of developers(yours included) which attempted to create an app that served as a user's shopping list/pantry list. In the application, the user could add, remove or edit any ingredients that they had stored in their pantry/fridge, and also they could select a group of ingredients and receive recipes they could make with those selected ingredients.
+I was tasked with creating the entire backend of the application using a Cloud database service called Kinvey. Using their API, and the following database schema I designed, I created the database, all the classes, functions and connnections needed to integrate it with the front end being developed by the other developers. The following is design concepts for the database and code examples on how to call functions or classes in their android application to query, add to, or remove from the Cloud database. This code was added by me to empty functions/empty onClick listeners where they designed to have things happen in the UI design on the application.
+
+Database Setup:
+* The database was based off a relational database schema but later, to fit with the architecture of the Kinvey Cloud database service, it was changed to two tables where the first table had an attribute that served as a reference to tuples inside of the second table in a one to many relationship (similar to a foreign key relationship in a SQL database).
+
+
+Technologies Used
+-------------
+* Android Studio
+* Kinvey (https://www.progress.com/kinvey)
+* Gradle
+* Java 
+
+Screenshots
+-------------
+<img src="https://user-images.githubusercontent.com/39919952/61255154-09207600-a72d-11e9-8de2-bda8a9dd087d.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61255155-09207600-a72d-11e9-8de8-7e31509f0f0b.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61255156-09207600-a72d-11e9-9402-45599553fc52.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61255157-09207600-a72d-11e9-85e7-2e203293d796.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61255158-09207600-a72d-11e9-82fd-075715a56705.png" width="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61255159-09207600-a72d-11e9-9bc8-77060bc9eb1d.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61255160-09207600-a72d-11e9-8c1e-9797d2e9c3b8.png" height="400" alt="Screenshot"/> 
+
+Pre-requisites
+--------------
+
+- Latest version of Android Studio
+(However, since the Cloud database service is no longer maintained with a monthly fee, it is no longer available so this example application of accessing Kinvey database is obsolete and no longer will work)
