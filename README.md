@@ -19,13 +19,9 @@ Technologies Used
 
 Screenshots
 -------------
-<img src="https://user-images.githubusercontent.com/39919952/61255154-09207600-a72d-11e9-8de2-bda8a9dd087d.png" height="400" alt="Screenshot"/> 
-<img src="https://user-images.githubusercontent.com/39919952/61255155-09207600-a72d-11e9-8de8-7e31509f0f0b.png" height="400" alt="Screenshot"/> 
-<img src="https://user-images.githubusercontent.com/39919952/61255156-09207600-a72d-11e9-9402-45599553fc52.png" height="400" alt="Screenshot"/> 
-<img src="https://user-images.githubusercontent.com/39919952/61255157-09207600-a72d-11e9-85e7-2e203293d796.png" height="400" alt="Screenshot"/> 
-<img src="https://user-images.githubusercontent.com/39919952/61255158-09207600-a72d-11e9-82fd-075715a56705.png" width="400" alt="Screenshot"/> 
-<img src="https://user-images.githubusercontent.com/39919952/61255159-09207600-a72d-11e9-9bc8-77060bc9eb1d.png" height="400" alt="Screenshot"/> 
-<img src="https://user-images.githubusercontent.com/39919952/61255160-09207600-a72d-11e9-8c1e-9797d2e9c3b8.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61494430-c2748b00-a97b-11e9-9b0c-29f87ab2c051.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61494434-c43e4e80-a97b-11e9-9c0c-f8be74a12e8f.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61494448-cf917a00-a97b-11e9-8ce2-09b95c813bab.png" height="400" alt="Screenshot"/> 
 
 Pre-requisites
 --------------
